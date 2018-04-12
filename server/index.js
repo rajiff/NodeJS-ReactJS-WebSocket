@@ -1,0 +1,1 @@
+console.log("Hello NodeJSConsoleApp, your code starts here");
